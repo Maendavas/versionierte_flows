@@ -1,0 +1,8 @@
+flows:
+  edb2cd10-af08-4e89-9104-5ef6897ffb35: {ver: 1, file: FilesTransfer-Flow.snapshot,
+    comments: Initial Version, author: 'CN=sys_admin, OU=NIFI', created: 1687790831707,
+    flowName: FilesTransfer-Flow, flowDesc: 'Dieser Flow holt Dateien aus einem Ordner,
+      filtert die Dateien nach dem Typ, erstellt neue Ordner mit dem Namen des Typs
+      und legt die zugehörige Dateien rein.'}
+layoutVer: 1
+bucketId: 5d864bc2-0c29-4821-9461-a87709a0efd7
